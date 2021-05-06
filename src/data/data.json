@@ -97,12 +97,14 @@
     "Features": [{
             "icon": "fa fa-code-fork",
             "title": "Automação Comercial",
-            "text": "Aplicação de métodos e ferramentas para automatizar processos comerciais, isso é, mecanizar e agilizar processos manuais, alcançando total eficiência. Isso se deve à facilidade com a qual softwares de automação comercial conseguem coletar e gerar dados, facilitando a análise da operação como um todo."
+            "text": "Aplicação de métodos e ferramentas para automatizar processos comerciais, isso é, mecanizar e agilizar processos manuais, alcançando total eficiência. Isso se deve à facilidade com a qual softwares de automação comercial conseguem coletar e gerar dados, facilitando a análise da operação como um todo.",
+            "link": "https://evoemissor.com.br/"
         },
         {
             "icon": "fa fa-desktop",
             "title": "Informática",
             "text": "Montagem, instalação, configuração e manutenção de computadores; formatação, backup’s, instalação e configuração de periféricos, realizando suporte técnico ao cliente."
+            
         },
         {
             "icon": "fa fa-sitemap",

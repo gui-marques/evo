@@ -25,13 +25,15 @@ export const Contact = (props) => {
       )
       .then(
         (result) => {
-          console.log(result.text)
+          // console.log(result.text)
+          alert('Mensagem enviada com Successo! :D')
           clearState()
         },
         (error) => {
-          console.log(error.text)
+          // console.log(error.text)
         }
       )
+      e.target.reset()
   }
   return (
     <div>
