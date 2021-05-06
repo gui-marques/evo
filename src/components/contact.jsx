@@ -21,7 +21,7 @@ export const Contact = (props) => {
     emailjs
       .sendForm(
         // 'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
-        '993', '995', e.target, 'guilherme.silva@evolutioninformatica.com.br'
+        '993', '995', e.target, 'service_nlgk4zk'
       )
       .then(
         (result) => {
