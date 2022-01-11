@@ -74,12 +74,19 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
+
 #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;
 	font-size: 24px;
 	font-weight: 700;
 	color: rgb(250, 250, 250);
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
+}
+#menu img.logo{	
+	width: 120px;
+	left: 500px;
+	top: -6px;
+	position: absolute;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
@@ -90,6 +97,7 @@ hr {
 	padding: 8px 2px;
 	border-radius: 0;
 	margin: 9px 20px 0 20px;
+	
 }
 #menu.navbar-default .navbar-nav > li > a:after {
 	display: block;
@@ -101,6 +109,7 @@ hr {
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	content: "";
 	transition: width 0.2s;
+	background: url(../img/intro-bg.jpg) center center no-repeat;
 }
 #menu.navbar-default .navbar-nav > li > a:hover:after {
 	width: 100%;
@@ -184,7 +193,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 /* Header Section */
 .intro {
 	display: table;
-	width: 100%;
+	width: 100%;	
 	padding: 0;
 	background: url(../img/intro-bg.jpg) center center no-repeat;
 	background-color: #e5e5e5;

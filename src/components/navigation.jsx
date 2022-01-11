@@ -1,7 +1,9 @@
+
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
+
         <div className='navbar-header'>
           <button
             type='button'
@@ -15,8 +17,10 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
+          <img className="logo" src="img/logo.png" alt="Smart Tech Solutions" />
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Evolution Informatica
+            Smart Tech Solutions
+
           </a>{' '}
         </div>
 
@@ -32,7 +36,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-              SOBRE
+                Sobre
               </a>
             </li>
             <li>
@@ -58,11 +62,6 @@ export const Navigation = (props) => {
             <li>
               <a href='#contact' className='page-scroll'>
                 Contato
-              </a>
-            </li>
-            <li>
-              <a href='https://evosistema.herokuapp.com/' target="_blank"  className='page-scroll' rel="noreferrer">
-                Login
               </a>
             </li>
           </ul>

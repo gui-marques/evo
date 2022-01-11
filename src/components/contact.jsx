@@ -21,7 +21,7 @@ export const Contact = (props) => {
     emailjs
       .sendForm(
         // 'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
-        'service_1zp7i89', 'template_vilsny6', e.target, 'user_my4B7V8kDq7whWdNu6jkH'
+        'service_kv0h5cq', 'template_tvdzayp', e.target, 'user_cUZqDV15f7nwgLziQQxJ8'
       )
       .then(
         (result) => {
@@ -33,7 +33,7 @@ export const Contact = (props) => {
           // console.log(error.text)
         }
       )
-      e.target.reset()
+    e.target.reset()
   }
   return (
     <div>
@@ -44,7 +44,7 @@ export const Contact = (props) => {
               <div className='section-title'>
                 <h2>fale conosco</h2>
                 <p>
-                Por favor, preencha o formulário abaixo para nos enviar um email que iremos retornar para você o mais rápido possível.
+                  Por favor, preencha o formulário abaixo para nos enviar um email que iremos retornar para você o mais rápido possível.
                 </p>
               </div>
               <form name='sentMessage' validate onSubmit={handleSubmit}>
@@ -160,8 +160,8 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Evolution Informatica Desenvolvido por {'Guilherme Silva '}
-            {/* <a href='http://www.templatewire.com' rel='nofollow'>
+            Copyright &copy;2022 SmartTech Solutions - Ampliando seu alcance
+            {/*por {'Guilherme Silva '} <a href='http://www.templatewire.com' rel='nofollow'>
               TemplateWire
             </a> */}
           </p>

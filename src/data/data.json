@@ -1,27 +1,26 @@
 {
     "Header": {
-
-        "title": "Evo Empresa",
-        "paragraph": "Sediada em Guaratuba a EVOLUTION especializou-se em equipamentos e serviços de automação comercial, informática e tecnologia. As parcerias de sucesso e os constantes investimentos na valorização e qualificação de nossos profissionais nos orienta rumo ao futuro."
-
+        "title": "Smart Tech",
+        "paragraph": "Ampliando seu alcance."
     },
     "Sobre": {
-        "paragraph": "A EVOLUTION tem sua trajetória marcada pelo espírito empreendedor de seus diretores e pela dedicação de seus colaboradores, fatores fundamentais que permitiram à empresa conquistar confiança e respeito no seu segmento.",
-        "paragraph2": "Com a experiência e solidez alcançadas ao longo de mais de 13 anos de história, nos sentimos preparados para oferecer um amplo portfólio de soluções. Nosso compromisso é buscar a resposta ideal, pautados por uma visão consultiva, focados nas necessidades de cada cliente.",
+        "paragraph": "A SMARTTECH Solutions tem sua trajetória marcada pelo espírito empreendedor de seus diretores e pela dedicação de seus colaboradores, fatores fundamentais que permitiram à empresa conquistar confiança e respeito no seu segmento.",
+        "paragraph2": "Com a experiência e solidez alcançadas ao longo do tempo, nos sentimos preparados para oferecer um amplo portfólio de soluções. Nosso compromisso é buscar a resposta ideal, pautados por uma visão consultiva, focados nas necessidades de cada cliente.",
         "Why": [
             "Confiança e respeito no seu segmento.",
-            "Evolução em informática",
-            "Excelência em atendimento",
+            "Relatórios mensais no desempenho da empresa.",
+            "Excelência com o publico em geral.",
             "Credibilidade, sendo de urgência e agilidade 😉"
         ],
         "Why2": [
             "Suporte rápido",
-            "Sistemas de qualidade",
-            "Rápidez na entrega",
+            "Criativida sempre em alta. ",
+            "Criamos um plano unico com a necessidade do cliente.",
             "Grandes váriedades de sistemas"
         ]
     },
-    "Services": [{
+    "Services": [
+        {
             "icon": "fa fa-video-camera",
             "name": "Manutenção em Cameras",
             "text": "Fazemos a manutenção e instalação de cameras de segurança."
@@ -32,13 +31,13 @@
             "text": "Um jeito novo de você fazer vendas, um sistema totalmente voltado para a sua empresa."
         },
         {
-            "icon": "fa fa-building" ,
+            "icon": "fa fa-building",
             "name": "Sistema de Gestão Empresarial",
             "text": "Um sistema completo para você gerênciar tudo que acontece dentro e fora da sua empresa."
         }
-
     ],
-    "Testimonials": [{
+    "Testimonials": [
+        {
             "img": "img/testimonials/01.jpg",
             "text": "Nós da Odonto Excellence escolhemos a Evolution, por ter sido indicada, e verificar que se trata de uma empresa séria e dedicada naquilo que faz. Um excelente atendimento e com profissionais capacitados.",
             "name": "Odonto Excellence"
@@ -64,57 +63,43 @@
             "name": "John Doe"
         }
     ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "Guilherme Portugal",
-            "job": "Empresario"
-        },
+    "Team": [
         {
-            "img": "img/team/02.jpg",
-            "name": "Willian Calisto",
-            "job": "Gerente"
-        }, {
             "img": "img/team/03.jpg",
-            "name": "Guilherme Silva",
-            "job": "Desenvolvedor"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Guilherme Graper",
-            "job": "Desenvolvedor"
+            "name": "Guilherme Marques",
+            "job": "CEO"
         }
-        
     ],
     "Contact": {
         "address": "AV. 29 de Abril ",
-        "phone": "+55 0800 654 6569",
-        "email": "contato@evolutioninformatica.com.br",
-        "cnpj": "11.155.151.00001-52",
-        "facebook": "https://www.facebook.com/evolutiontecnologiaoficial",
-        "instagram": "https://www.instagram.com/evolutiongtba/",
-        "whatsapp": "https://api.whatsapp.com/send?phone=5541998820199&text=Evolution%20Informatica"
+        "phone": "+55 (41) 99578-9285",
+        "email": "smarttechsolutions.gtba@gmail.com.br",
+        "cnpj": "41.796.591/0001-32",
+        "facebook": "https://www.facebook.com/SmartTechGuaratuba",
+        "instagram": "https://www.instagram.com/smarttechgtba/",
+        "whatsapp": "https://api.whatsapp.com/send?phone=5541995789285&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20"
     },
-    "Features": [{
+    "Features": [
+        {
             "icon": "fa fa-code-fork",
-            "title": "Automação Comercial",
-            "text": "Aplicação de métodos e ferramentas para automatizar processos comerciais, isso é, mecanizar e agilizar processos manuais, alcançando total eficiência. Isso se deve à facilidade com a qual softwares de automação comercial conseguem coletar e gerar dados, facilitando a análise da operação como um todo.",
+            "title": "Marketing nas redes sociais",
+            "text": "O Marketing envolve a promoção de sua marca nos canais sociais, a fim de aumentar o reconhecimento da marca, direcionar o tráfego para seu site e gerar leads. Para isso, você pode criar posts em canais populares das redes sociais",
             "link": "https://evoemissor.com.br/"
         },
         {
             "icon": "fa fa-desktop",
-            "title": "Informática",
-            "text": "Montagem, instalação, configuração e manutenção de computadores; formatação, backup’s, instalação e configuração de periféricos, realizando suporte técnico ao cliente."
-            
+            "title": "SEO (otimização para motores de busca)",
+            "text": "SEO (Search Engine Optimization) ou otimização para mecanismos de busca. São as ações que contribuem para melhorar o potencial de rankeamento de suas páginas e conteúdos, ajudando você a cumprir os principais pré-requisitos exigidos pelas plataformas de pesquisa."
         },
         {
             "icon": "fa fa-sitemap",
-            "title": "Rede Estruturada",
-            "text": "Organizamos e padronizamos os conectores e meios de transmissão para redes de informática e telefonia, de modo a tornar a infraestrutura de cabos autônoma quanto ao tipo de aplicação e de layout, permitindo a ligação a uma rede de: servidores, estações, impressoras, telefones, switches, hubs e roteadores."
+            "title": "Publicidade nativa",
+            "text": "O objetivo da publicidade nativa é fazer com que os usuários cliquem no conteúdo que os levará à página da sua empresa. Se o conteúdo comercial anunciado for discreto e altamente relevante para o material em questão, os usuários podem ter mais interesse ​​em clicar."
         },
         {
             "icon": "fa fa-reddit",
-            "title": "ChatBoot",
-            "text": "Chatbot é um programa de computador que tenta simular um ser humano na conversação com as pessoas. O objetivo é responder as perguntas de tal forma que as pessoas tenham a impressão de estar conversando com outra pessoa e não com um programa de computador"
+            "title": "Tráfego Orgânico/Pago",
+            "text": "Trafego Orgânico/Pago é a maneira que o cliente chega até você, com o trafego pago você leva a sua empresa até ele, com o orgânico você faz o cliente chegar até você, através de uma publicação, um histories e assim por diante."
         }
     ]
 }

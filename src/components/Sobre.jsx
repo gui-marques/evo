@@ -5,9 +5,9 @@ export const Sobre = (props) => {
       <div className='container'>
         <div className='row'>
           <div className='col-xs-12 col-md-6'>
-            {''}                
-     
-             <img src='http://www.evolutioninformatica.com.br/img/fotoloja.jpg' className='img-responsive' alt='' />{' '} 
+            {''}
+
+            <img src='img/About.jpg' className='img-responsive' alt='' />{' '}
           </div>
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
@@ -20,8 +20,8 @@ export const Sobre = (props) => {
                   <ul>
                     {props.data
                       ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
+                        <li key={`${d}-${i}`}>{d}</li>
+                      ))
                       : 'loading'}
                   </ul>
                 </div>
@@ -29,8 +29,8 @@ export const Sobre = (props) => {
                   <ul>
                     {props.data
                       ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
+                        <li key={`${d}-${i}`}> {d}</li>
+                      ))
                       : 'loading'}
                   </ul>
                 </div>
